@@ -3,6 +3,10 @@ permalink: /data/
 title: "Data"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The data used in this blog are sourced as follows.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Past election data is from either the [British Election Study]("https://www.britishelectionstudy.com/data-objects/linked-data/") or the [House of Commons Library]("https://commonslibrary.parliament.uk/research-briefings/cbp-8647/#fullreport").
+
+Constituency-level data on the EU Referendum results are sourced from [Chris Hanretty's published estimates]("https://docs.google.com/spreadsheets/d/1b71SDKPFbk-ktmUTXmDpUP5PT299qq24orEA0_TOpmw/edit?usp=sharing") as set out in his paper [“Areal interpolation and the UK’s referendum on EU membership”]("http://dx.doi.org/10.1080/17457289.2017.1287081").
+
+
