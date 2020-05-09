@@ -25,9 +25,7 @@
       {% endif %}
     </h2>
      <p class="page__meta">
-      {% if post.last_modified_at %}
-        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%B %d, %Y" }}</time>&emsp;
-      {% elsif post.date %}
+      {% if post.date %}
         <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y " }}</time>&emsp;
       {% endif %}
       {% if post.read_time %}
