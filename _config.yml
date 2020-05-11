@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "About me"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I like elections and I cannot lie"
+  name             : "About"
+  avatar           : "/hoc-benches.jpg"
+  bio              : "An amateur elections blog"
   location         : # "Somewhere"
   email            :
   links:
