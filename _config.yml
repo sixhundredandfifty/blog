@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "About"
   avatar           : "/assets/images/hoc_benches.png"
-  bio              : "An amateur elections blog."
+  bio              : "An amateur elections blog"
   location         : # "Somewhere"
   email            :
   links:
