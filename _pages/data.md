@@ -3,7 +3,7 @@ permalink: /data/
 title: "Data"
 ---
 
-The data used in this blog are from the following sources.
+The data in this blog are sourced as follows.
 
 **Past election results** are from the [British Election Study](https://www.britishelectionstudy.com/data-objects/linked-data/) or the [House of Commons Library](https://commonslibrary.parliament.uk/research-briefings/cbp-8647/#fullreport).
 
