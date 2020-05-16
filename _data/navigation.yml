@@ -1,9 +1,10 @@
 # main links
 main:
-  - title: "Data"
-    url: /data/
   - title: "About"
     url: /about/
+  - title: "Data"
+    url: /data/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
