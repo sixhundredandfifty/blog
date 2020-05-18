@@ -5,7 +5,7 @@ tags:
   - 2019 election
 ---
 
-In a [previous post]({% post_url 2020-05-17-election2019 %}) I noted that the Conservatives' hard pro-Brexit stance helped to neutralise the threat of the Brexit Party in the pro-Leave seats it was hoping to take from Labour. 
+In a previous post I noted that the Conservatives' hard pro-Brexit stance helped to neutralise the threat of the Brexit Party in the pro-Leave seats it was hoping to take from Labour. 
 
 But the Brexit Party still increased its vote share by around 4% in the  Leave-supporting seats where it stood. What impact did that have on the overall result?
 
