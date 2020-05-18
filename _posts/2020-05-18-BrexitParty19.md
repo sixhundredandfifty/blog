@@ -16,6 +16,7 @@ There are two things to consider in coming to an answer:
 In answer to the first question, we could say that the Brexit Party "made a difference" to the result in a seat if the top-placing two parties in a seat were on different sides of the Brexit debate, and if the Brexit Party polled more votes than the margin between the two at the election. There were 59 such seats - Table 1 shows which party came first in these seats (the rows) and which came second (the columns):
 
 **Table 1 - Number of seats in which Brexit Party vote was larger than winning margin, by winning party (row) and runner up (column) **
+
 |         | Con | Lab | Brexit | Lib Dem |
 |---------|-----|-----|--------|---------|
 | **Con** | 0   | 19  | 0      | 1       |
