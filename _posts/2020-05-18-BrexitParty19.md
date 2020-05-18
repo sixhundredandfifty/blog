@@ -13,13 +13,14 @@ There are two things to consider in coming to an answer:
 * In how many constituencies did the Brexit Party win enough votes to make a difference to the result in that constituency?
 * How would Brexit Party voters have voted if the party hadn't stood?
 
-In answer to the first question, we could say that the Brexit Party "made a difference" to the result in a seat if the top-placing two parties in a seat were on different sides of the Brexit debate, and if the Brexit Party polled more votes than the margin between the two at the election. There were 59 such seats - the table below shows which party came first in these seats (the rows) and which came second (the columns):
+In answer to the first question, we could say that the Brexit Party "made a difference" to the result in a seat if the top-placing two parties in a seat were on different sides of the Brexit debate, and if the Brexit Party polled more votes than the margin between the two at the election. There were 59 such seats - Table 1 shows which party came first in these seats (the rows) and which came second (the columns):
 
-|     | Con | Lab | Brexit | Lib Dem |
-|-----|-----|-----|--------|---------|
-| Con | 0   | 19  | 0      | 1       |
-| Lab | 36  | 0   | 2      | 0       |
-| PC  | 1   | 0   | 0      | 0       |
+**Table 1 - Number of seats in which Brexit Party vote was larger than winning margin, by winning party (row) and runner up (column) **
+|         | Con | Lab | Brexit | Lib Dem |
+|---------|-----|-----|--------|---------|
+| **Con** | 0   | 19  | 0      | 1       |
+| **Lab** | 36  | 0   | 2      | 0       |
+| **PC**  | 1   | 0   | 0      | 0       |
 
 So, from a purely numerical perspective, it looks like there were enough Brexit Party voters to have helped the Conservatives gain 19 seats from Labour (and 1 from the Lib Dems). But on the other hand it looks like there were also enough to have helped Labour and Plaid Cymru defend 39 seats from the Conservatives. (Note that, in the two seats where the Brexit Party came second, the combined Brexit and Conservative vote was greater than Labour's tally, so I include these in the 39 number.)
 
