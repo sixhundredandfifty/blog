@@ -17,7 +17,7 @@ In answer to the first question, we could say that the Brexit Party "made a diff
 
 |     | Con | Lab | Brexit | Lib Dem |
 |-----|-----|-----|--------|---------|
-| Con | 0   | 19  | 0      | 1      |
+| Con | 0   | 19  | 0      | 1       |
 | Lab | 36  | 0   | 2      | 0       |
 | PC  | 1   | 0   | 0      | 0       |
 
