@@ -32,4 +32,4 @@ But what would actually have happened in these seats if the Brexit Party hadn't 
 
 The true answer to what Brexit Party voters would have done if the Party had not stood is probably a mixture of the three options above, and the outcome a mixture of the three scenarios. I haven't been able to find any reliable polls on alternative voting intention, and it's not clear how informative such hypothetical surveys are anyway. 
 
-So the answer of whether the Brexit Party helped or hindered the Conservatives by fielding candidates isn't totally clear. But, **either way, it doesn't seem that the Party's decision to stand changed the broad result**: a Conservative majority.
+So the answer of whether the Brexit Party helped or hindered the Conservatives by fielding candidates isn't totally clear. But, **either way, it doesn't seem that the Party's decision to stand changed the broad result: a Conservative majority**.
