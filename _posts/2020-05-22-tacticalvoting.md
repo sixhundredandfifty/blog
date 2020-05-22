@@ -95,7 +95,7 @@ But anyway, all of those caveats aside, just for interest, this is what the Hous
 |---------------------------------------------------------------------------|-----|-----------------------------------------------------------------------------|-----|
 | Conservatives                                                             | 322 | Labour                                                                      | 220 |
 | Brexit                                                                    | 2   | SNP                                                                         | 53  |
-| DUP                                                                       | 9   | Lib Dems2                                                                   | 28  |
+| DUP                                                                       | 9   | Lib Dems                                                                    | 28  |
 |                                                                           |     | Plaid Cymru                                                                 | 4   |
 |                                                                           |     | Green                                                                       | 1   |
 |                                                                           |     | Ind (David Gauke)                                                           | 1   |
