@@ -23,7 +23,7 @@ Take a look at Chart 1, which shows the change in Labour and Lib Dem vote share 
 
 **Chart 1 - Change in Labour and Lib Dem vote share in each constituency, 2017 - 2019, coloured by estimated Leave vote**
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-17/chart2_2020_05_22.html" height="600" width="750"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-22/chart1_2020_05_22.html" height="600" width="700"></iframe>
 
 As two of the largest pro-Remain parties, tactical voting should be clear from examples where their vote went up or down by much more than the national average (in which Labour lost 8% and the Lib Dems gained 4%). And you can pick out some of the clearest examples:
 * In the top left corner, there’s a handful of seats where the Labour vote went up and the Lib Dem vote went down, in a reverse of the national picture. In these seats (for example, **Canterbury**, **Portsmouth South**, and **Southport**), Labour was neck and neck with the Conservatives in 2017, so it looks like Lib Dem tactical voting was at work. This wasn’t enough for Labour to take Southport from the Conservatives, but it helped them defend the other two seats, which it had won in 2017.
@@ -59,7 +59,7 @@ The seats that the Conservatives would have won in each scenario are highlighted
 
 **Chart 2 - Conservative seats won at the 2019 election in order of majority, coloured by estimated Leave vote. Seats that would have changed hands with pro-Remain tactical voting are in bold.**
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-17/chart2_2020_05_22.html" height="600" width="825"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-22/chart2_2020_05_22.html" height="600" width="700"></iframe>
 
 So, while it would have taken a lot of switching, there were theoretically enough votes out there for pro-Remain parties to stop the Conservatives getting a majority by voting tactically. Why didn’t this happen?
 
