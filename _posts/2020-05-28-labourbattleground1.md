@@ -1,6 +1,6 @@
 ---
 title: "Labour's battleground for the 2024 election"
-last_modified_at: 2020-05-28GMT:10:36-00:00
+last_modified_at: 2020-05-28GMT:21:37-00:00
 tags:
   - 2024 election
   - Labour
