@@ -83,9 +83,9 @@ A lot can change in four years. By the time of the election, there might be a to
 
 I’ll return to this topic in a future post.
 
-**Table 2 - Full summary of demographic variables (numbers show median percentage of population across the seats in each group)**
+**Table 2 - Full summary of demographic variables (numbers show median percentage of the population across each group that have each characteristic)**
 
-| Variable            | Working class towns Median | Middle Britain | Cities and big towns | Affluent suburbs and leafy city seats | Affluent city seats |
+| Variable            | Working class towns        | Middle Britain | Cities and big towns | Affluent suburbs and leafy city seats | Affluent city seats |
 |---------------------|----------------------------|----------------|----------------------|---------------------------------------|---------------------|
 | Young (18-45)       | 35                         | 32             | 43                   | 33                                    | 53                  |
 | Middle Aged (46-64) | 27                         | 28             | 22                   | 28                                    | 19                  |
@@ -98,7 +98,7 @@ I’ll return to this topic in a future post.
 | GCSEs               | 32                         | 31             | 27                   | 28                                    | 18                  |
 | A Level             | 11                         | 12             | 12                   | 12                                    | 10                  |
 | Degree              | 18                         | 25             | 27                   | 33                                    | 45                  |
-| Leave vote          | 60                         | 58             | 48                   | 48                                    | 28                  |
+| Voted Leave          | 60                         | 58             | 48                   | 48                                    | 28                  |
 
 <sup>Mapping to Census 2011 variables as follows: Working Class = Routine, Semi-Routine and Lower Supervisor workers; Middle Class = Higher Professional, Higher Manager and Lower Manager; Self-Employed = Small Employer; GCSE = Level 1 and Level 2; A Level = Level 3; Degree = Level 4. 'GCSEs' refers to the percentage of the population whose highest level of qualification is GCSE, etc.</sup>
 
