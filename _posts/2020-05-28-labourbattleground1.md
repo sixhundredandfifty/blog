@@ -45,7 +45,7 @@ This is not an exact science, and even if it were I’m not an expert practition
 
 Chart 3 shows the results.
 
-**Chart 3 - Labour’s 2024 battleground colour-coded by seat demographic category***
+**Chart 3 - Labour’s 2024 battleground colour-coded by seat demographic category**
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/chart3_2020_05_28.html" height="600" width="825"></iframe>
 
 <sup>Source: British Election Study</sup>
