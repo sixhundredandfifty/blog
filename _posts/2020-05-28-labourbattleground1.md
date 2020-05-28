@@ -50,7 +50,7 @@ Chart 3 shows the results.
 
 <sup>Source: British Election Study</sup>
 
-The five different categories are summarised in Table 1 (a full summary table of the median of all the demographic variables is shown in Table 2 at the end):
+The five different categories are summarised in Table 1 (a full summary table of the median of all the demographic variables is shown in Table 2 at the end).
 
 **Table 1 - The five demographic groups and a high-level summary of their populations**
 
