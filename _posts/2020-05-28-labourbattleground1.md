@@ -17,7 +17,7 @@ Chart 1 shows the basic picture. Taking the 2019 election (where Labour won 202 
 Labour needs to gain 124 seats to win a majority, and the dashed line marks out this threshold - i.e. assuming that Labour wins seats in order of the ‘swing’ required to take them, it will need to gain all the seats from the centre of the chart out to this dashed line.[^2]  
 
 **Chart 1 - Labour’s electoral battleground for 2024**
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/chart1_2020_05_28.html" height="600" width="825"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/Chart1_2020_05_28.html" height="600" width="825"></iframe>
 <sup>Source: British Election Study</sup>
 
 A few points to make about this basic picture:
@@ -28,7 +28,7 @@ A few points to make about this basic picture:
 * One point of trivia: take a look at the third point from the bottom in the ‘8%’ swing column. This seat is Uxbridge and South Ruislip - the Prime Minister’s constituency. Obviously Labour doesn’t have to take every particular seat on its target list to win the election - it could win some ‘safer’ seats on bigger swings instead. But if it’s to have any hope of winning a majority, it may well need to unseat the PM in the process.
 
 **Chart 2 - The Conservatives’  electoral battleground in 2010 (Conservative gains / losses in bold)**
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/chart2_2020_05_28.html" height="600" width="825"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/Chart2_2020_05_28.html" height="600" width="825"></iframe>
 
 <sup>Source: British Election Study</sup>
 
@@ -45,7 +45,7 @@ This is not an exact science, and even if it were I’m not an expert practition
 Chart 3 shows the results.
 
 **Chart 3 - Labour’s 2024 battleground colour-coded by seat demographic category***
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/chart3_2020_05_28.html" height="600" width="825"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/Chart3_2020_05_28.html" height="600" width="825"></iframe>
 
 <sup>Source: British Election Study</sup>
 
@@ -72,7 +72,7 @@ So where might Labour go from here? That’s a question I’ll explore in more d
 * **Changes in Labour support in each type of seat have followed a clear pattern in the past decade**. Chart 4 shows how the share of the Labour and Conservative vote in England and Wales has changed since 2010, when the Conservatives came to power. Since then, we’ve seen the collapse of the Lib Dems, the rise and fall of UKIP, and the reallocation of most of those votes to the Conservatives or Labour - so there’s a lot behind the movements in this chart. But the broad picture is clear: Labour has consolidated its strength in cities, and gained ground in more affluent areas; while at the same time it has haemorrhaged support in working class and Middle Britain seats. It’s these second two groups that make up the lion’s share of target seats. So Labour either needs to arrest its slide in these last two categories, or it needs to turbo-charge its upward march in cities and affluent, traditionally Conservative seats (which would require swings upward of 15% to reap returns).
 
 **Chart 4 - Change in Labour and Conservative vote share from 2010 to 2019 in seats colour-coded by seat demographic category**
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/chart4_2020_05_28.html" height="600" width="825"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/Chart4_2020_05_28.html" height="600" width="825"></iframe>
 
 <sup>Source: British Election Study</sup>
 
