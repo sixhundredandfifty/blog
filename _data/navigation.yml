@@ -4,8 +4,7 @@ main:
     url: /about/
   - title: "Data"
     url: /data/
- - title: "Contact"
-    url: /contact/
+
     
   # - title: "Sample Posts"
   #   url: /year-archive/
