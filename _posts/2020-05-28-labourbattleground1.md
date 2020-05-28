@@ -32,6 +32,7 @@ A few points to make about this basic picture:
 
 <sup>Source: British Election Study</sup>
 
+## Characterising the battleground 
 That’s the basic picture. But it’s not very informative - we need to know more about the battleground seats than just who won them at the last election. We need to know about the voters who make them up.
 
 Professional psephologists know this stuff inside out. But I’m an amateur - I don’t know my Blyth Valley from my Colne Valley. So to get a better handle on what each seat ‘looks like’, I did two things.
