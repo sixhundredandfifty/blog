@@ -1,6 +1,6 @@
 ---
 title: "Labour's battleground for the 2024 election"
-last_modified_at: 2020-05-28GMT:21:37-00:00
+last_modified_at: 2020-05-29GMT:11:15-00:00
 tags:
   - 2024 election
   - Labour
@@ -50,7 +50,14 @@ Chart 3 shows the results.
 
 <sup>Source: British Election Study</sup>
 
-The five different categories are summarised in Table 1 (a full summary table of the median of all the demographic variables is shown in Table 2 at the end).
+I've characterised the five different categories as follows:
+* **Affluent cities**: This group is made up entirely of city seats with a large middle class and young population, the vast majority of which are in London. It includes seats like ***Kensington***, ***Cities of London and Westminster***, ***Putney***, but also a few outside London, including ***Cambridge*** and ***Edinburgh North and Leith***. Because of the high proportion of middle class voters, I called this group ‘affluent cities’.
+* **Affluent suburbs**: This group is a mixture of suburbs and countryside seats with an older and very middle class population - places like ***Guildford***, ***Wimbledon***, ***Hexham***, and ***Sheffield Hallam***. It also includes a small number of middle-class cities (***City of Chester***, ***Canterbury***) with an older age mix than those in the ‘affluent cities’ category; but for simplicity, I’ve restricted the name to just ‘affluent suburbs’.
+* **Working class towns**: These are seats with a particularly high working-class and low middle-class population: seats like ***Blyth Valley***, ***Sedgefield***, and ***Blackpool South***. It’s where the Conservatives made many of their gains from Labour in 2019.
+* **Cities and large towns**: Most city seats outside London fall into this category - places like ***Portsmouth South***, ***Coventry South***, ***Exeter*** and ***Lincoln*** - as do most large towns, like ***Milton Keynes North***, ***Huddersfield***, and ***Ipswich***. Compared to affluent city seats, these places have a more balanced working class / middle class population, though still a relatively young one.
+* **Middle Britain**:  This is the hardest group to characterise. It has an older population (like affluent suburbs), but is relatively balanced in terms of social class and qualification levels. It includes places like ***South Thanet***, ***Bridgend***, ***Banbury*** and ***Crewe and Nantwich***. The Conservatives also made many of their 2019 gains in this category (like working class towns, this group voted heavily for 'Leave' in the EU referendum). Because these seats are in the middle of the pack in terms of social class and qualification mix, I’ve called the group ‘Middle Britain’. 
+
+I've summarised the demographics at a high level in Table 1 (a full summary table of the median of all the demographic variables is shown in Table 2 at the end).
 
 **Table 1 - The five demographic groups and a high-level summary of their populations**
 
@@ -58,7 +65,7 @@ The five different categories are summarised in Table 1 (a full summary table of
 |---------------------------------------|---------------------|-----------------------------------------|--------------------------------------------------|-----------------|
 | **Cities and large towns**                | Relatively young    | Balanced working class vs middle class  | Balanced number with no qualifications vs degree | Balanced        |
 | **Working class towns**                   | Middle-aged         | Highly working class                    | Large number with no qualifications              | Strongly Leave  |
-| **Affluent suburbs and leafy city seats** | Older / middle-aged | Highly middle class                     | Large number with degree                         | Balanced        |
+| **Affluent suburbs** | Older / middle-aged | Highly middle class                     | Large number with degree                         | Balanced        |
 | **Middle Britain**                        | Older / middle-aged | Balanced working class vs middle class  | Balanced number with no qualifications vs degree | Strongly Leave  |
 | **Affluent cities**                       | Young               | Highly middle class                     | Large number with degree                         | Strongly Remain |
 
@@ -85,7 +92,7 @@ I’ll return to this topic in a future post.
 
 **Table 2 - Full summary of demographic variables (numbers show median percentage of the population across each group that have each characteristic)**
 
-| Variable            | Working class towns        | Middle Britain | Cities and big towns | Affluent suburbs and leafy city seats | Affluent city seats |
+| Variable            | Working class towns        | Middle Britain | Cities and big towns | Affluent suburbs | Affluent city seats |
 |---------------------|----------------------------|----------------|----------------------|---------------------------------------|---------------------|
 | Young (18-45)       | 35                         | 32             | 43                   | 33                                    | 53                  |
 | Middle Aged (46-64) | 27                         | 28             | 22                   | 28                                    | 19                  |
