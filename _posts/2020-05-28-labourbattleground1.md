@@ -1,6 +1,6 @@
 ---
 title: "Labour's battleground for the 2024 election"
-last_modified_at: 2020-05-29GMT:11:15-00:00
+last_modified_at: 2020-09-19GMT:11:15-00:00
 tags:
   - 2024 election
   - Labour
@@ -35,13 +35,15 @@ A few points to make about this basic picture:
 ## Characterising the battleground 
 That’s the basic picture. But it’s not very informative - we need to know more about the battleground seats than just who won them at the last election. We need to know about the voters who make them up.
 
-Professional psephologists know this stuff inside out. But I’m an amateur - I don’t know my Blyth Valley from my Colne Valley. So to get a better handle on what each seat ‘looks like’, I did two things.
+To get a handle on what each seat ‘looks like’ demographically, I did two things.
 
 First, I downloaded constituency-level data on voter demographics, which the British Election Study compiles using census data.
 
-Second, I asked a data scientist friend whether there was a clever machine-learning method that could help me categorise seats into groups based on this data - and fortunately there was. It’s called KMeans clustering. I won’t go into all the gory details here, but basically I fed a load of the demographic variables for each seat into an algorithm, which then categorised those seats into 5 groups in a way that minimised the within-group differences in the input variables. I specified 5 groups, as this seemed enough to be meaningful, but not so many as to be incomprehensible.[^4]
+Second, I used a machine-learning technique called KMeans clustering to categorise seats into groups based on this data: basically I fed a number of the demographic variables for each seat into an algorithm, which then categorised those seats into 5 groups in a way that minimised the within-group differences in the input variables. I specified 5 groups, as this seemed enough to be meaningful, but not so many as to be incomprehensible.[^4]
 
-This is not an exact science, and even if it were I’m not an expert practitioner. But I’m not trying to do anything definitive here - I’m just looking for a way in to the problem. With that caveat in mind, I ran the algorithm, eyeballed the seats in each group and came up with a phrase to characterise them, based on a few constituencies I did know about in each group and the overall distribution of demographic variables. 
+Then, once I'd run the algorithm, I eyeballed the seats in each group and came up with a phrase to characterise them, based on a few constituencies I did know about in each group and the overall distribution of demographic variables in each category. 
+
+Clearly this is not an exact science, but it's good enough for the purpose of getting a rough picture of the landscape. 
 
 Chart 3 shows the results.
 
