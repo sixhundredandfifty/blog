@@ -41,7 +41,7 @@ First, I downloaded constituency-level data on voter demographics, which the Bri
 
 Second, I used a machine-learning technique called KMeans clustering to categorise seats into groups based on this data: basically I fed a number of the demographic variables for each seat into an algorithm, which then categorised those seats into 5 groups in a way that minimised the within-group differences in the input variables. I specified 5 groups, as this seemed enough to be meaningful, but not so many as to be incomprehensible.[^4]
 
-Then, once I'd run the algorithm, I eyeballed the seats in each group and came up with a phrase to characterise them, based on a few constituencies I did know about in each group and the overall distribution of demographic variables in each category. 
+Then, once I'd run the algorithm, I eyeballed the seats in each group and came up with a phrase to characterise them, based on a few constituencies I already knew something about in each group and the overall distribution of demographic variables in each category. 
 
 Clearly this is not an exact science, but it's good enough for the purpose of getting a rough picture of the landscape. 
 
