@@ -50,7 +50,7 @@ Chart 3 shows the results.
 **Chart 3 - Labour’s 2024 battleground colour-coded by seat demographic category**
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://sixhundredandfifty.github.io/charts/2020-05-28/chart3_2020_05_28.html" height="600" width="825"></iframe>
 
-<sup>Source: British Election Study</sup>
+<sup>Source: British Election Study (for raw demographic data), own calculations (for categorisation)</sup>
 
 I've characterised the five different categories as follows:
 * **Affluent cities**: This group is made up entirely of city seats with a large middle class and young population, the vast majority of which are in London. It includes seats like ***Kensington***, ***Cities of London and Westminster***, ***Putney***, but also a few outside London, including ***Cambridge*** and ***Edinburgh North and Leith***. Because of the high proportion of middle class voters, I called this group ‘affluent cities’.
