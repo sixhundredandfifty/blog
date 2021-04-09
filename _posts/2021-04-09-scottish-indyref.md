@@ -29,7 +29,7 @@ I therefore chose variables for the model that reflected these characteristics (
 
 | Characteristic         | Variable - % of the population...                                          |
 |------------------------|----------------------------------------------------------------------------|
-| Age                    | Aged 16-19 </br> Aged 20-24 </br> Aged 25-29 </br> Aged 30-44 </br> Aged 45-59 </br> Aged 60-64 </br> Aged 65+ |
+| Age                    | Aged 16-19</br>Aged 20-24</br>Aged 25-29</br>Aged 30-44</br>Aged 45-59</br>Aged 60-64</br>Aged 65+ |
 | Economic circumstances | In managerial or professional jobs </br> Unemployed                              |
 | Birth place            | Born in Scotland </br> Born in the rest of the UK                                |
 
